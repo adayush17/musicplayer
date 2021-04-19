@@ -15,8 +15,8 @@ let current_time = document.getElementById('current_time');
 const progress_div = document.getElementById('progress_div');
 
 const songs = [{
-    name: 'closer',
-    title: 'closer',
+    name: 'Closer',
+    title: 'Closer',
     artist: 'Chainsmoker',
 },
 {
