@@ -44,6 +44,16 @@ const songs = [{
     title: 'Ishq Risk',
     artist: 'Mere Brother ki Dulhan',
 },
+{
+    name: 'lamhe',
+    title: 'Kya Mujhe Pyar Hai',
+    artist: 'Wo Lamhe',
+},
+{
+    name: 'gangster',
+    title: 'Ya Ali',
+    artist: 'Gangster',
+},
 ];
 
 let isPlaying = false;
