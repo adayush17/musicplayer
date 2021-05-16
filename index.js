@@ -14,10 +14,21 @@ let total_duration = document.getElementById('duration');
 let current_time = document.getElementById('current_time');
 const progress_div = document.getElementById('progress_div');
 
-const songs = [{
+const songs = [
+{
     name: 'Closer',
     title: 'Closer',
     artist: 'Chainsmoker',
+},
+{
+    name: 'kaise_Hua',
+    title: 'Kaise Hua',
+    artist: 'Kabir Singh',
+},
+{
+    name: 'pehla_Pyaar',
+    title: 'Pehla Pyaar',
+    artist: 'Kabir Singh',
 },
 {
     name: 'Mohra',
@@ -43,16 +54,6 @@ const songs = [{
     name: 'ishq_risk',
     title: 'Ishq Risk',
     artist: 'Mere Brother ki Dulhan',
-},
-{
-    name: 'lamhe',
-    title: 'Kya Mujhe Pyar Hai',
-    artist: 'Wo Lamhe',
-},
-{
-    name: 'gangster',
-    title: 'Ya Ali',
-    artist: 'Gangster',
 },
 ];
 
